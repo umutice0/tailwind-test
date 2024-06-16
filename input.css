@@ -9,4 +9,9 @@
         @apply text-ab;
         /* font-style: italic; */
     }
+
+    h2{
+        @apply text-2xl;
+        @apply tracking-wider;
+    }
 }

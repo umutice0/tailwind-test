@@ -4,7 +4,7 @@
 
 /* Bir daha eklememek için, tüm hepsine direkt uygulanması için böyle yazılabilir. */
 @layer base{
-    h1, h2, h3, h4, h5, h6, a, i{
+    h1, h2, h3, h4, h5, h6, a{
         @apply font-ubuntu;
         @apply text-ab;
         /* font-style: italic; */

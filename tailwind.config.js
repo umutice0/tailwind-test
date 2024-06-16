@@ -17,6 +17,10 @@ module.exports = {
 
       colors: {
         ab: "#19aae3" 
+      },
+
+      spacing: {
+        '128': '32rem'
       }
     },
   },
